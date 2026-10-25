@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+
+# All generated files in output
+output/*
+!output/videos/
+output/videos/*
+!output/audio/
+output/audio/*
+!output/scripts/
+output/scripts/*
+
+# Keep directory structure
+!output/videos/.gitkeep
+!output/audio/.gitkeep
+!output/scripts/.gitkeep
+
+# Sensitive Google Cloud Service Account Keys
+google-key.json
+ttsmaker-key.json

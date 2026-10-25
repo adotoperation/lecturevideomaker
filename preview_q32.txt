@@ -1,0 +1,226 @@
+====================================================================
+2026년 고3 6월 모의고사 32번: 대본 및 구조분석 데이터 검토
+====================================================================
+
+### [지문 요약 정보 (H열: 문장 1에 들어갈 데이터)]
+{
+  "title_en": "The Importance of Nonverbal Communication and Its Interpretation",
+  "subject": "비언어적 소통의 중요성과 올바른 해석",
+  "keywords": "① nonverbal (비언어적인)  ② meaning (의미)  ③ interpret (해석하다)",
+  "illustration_scene_en": "A lively group discussion in a cozy room, with people expressing emotions subtly through gestures and facial expressions, Studio Ghibli aesthetic, hand-drawn watercolor",
+  "summary": [
+    "① 화자는 말로 모든 걸 표현 않고 비언어 소통이 중요.",
+    "② 비언어 행동은 오해 쉽기에 확인 필요.",
+    "③ 비언어 소통이 대화의 많은 부분 차지하며 숨기기 어려움."
+  ]
+}
+
+### [문장별 대본 (F열) 및 구문분석 (G열)]
+--------------------------------------------------------------------
+[문장 1] 원문: Speakers don't always put everything that's important to them into words.
+[문장 1] 직독직해: 화자가 / 항상 / 모든 것을 / 말로 표현하는 것은 아니다 / 그들에게 중요한.
+[문장 1] 형식분석: [3형식] 주어(S) + 타동사(Vt) + 목적어(O) + (전치사구)
+• 주절: Speakers(S) + don't always put(Vt) + everything(O) + (into words)
+• 수식절(that's): 선행사 everything을 후치 수식하는 주격 관계대명사절 (that's important (to them))
+• 구문 해설: 주절은 타동사구 put A into B(A를 말로 표현하다) 3형식 구조이며, 목적어 everything 뒤에 관계사절이 결합됨
+[문장 1] 문법포인트: 부분 부정: not always는 '항상 ~인 것은 아니다'라는 부분 부정을 나타냅니다.
+관계대명사 that: everything을 수식하는 주격 관계대명사 that입니다. that절은 명사 everything을 수식하는 형용사절입니다.
+전치사구 into words: '말로'라는 의미의 전치사구로, 동사 put의 방식을 설명하는 부사구 역할을 합니다.
+
+[F열: 강의 대본]
+전국의 모든 학생 여러분 안녕하세요. 2026년 고3 6월 모의고사 삼십이 번 지문 분석 강의를 시작하겠습니다. 첫 번째 문장 앞에서부터 끊어 읽으며 구조 분석을 함께 진행하겠습니다.
+
+1단계 [구조분석 직독직해]:
+Speakers 주절의 주어 에스를 잡습니다. don't always put 주절의 본동사 브이티입니다. everything 목적어 오입니다. 관계대명사 that에 세모를 치고 소괄호로 묶어줍니다. 형용사절은 명사를 후치수식하므로 앞의 선행사 everything을 꾸며주는 역할을 하죠. that절 내부는 이형식입니다. that 주격 관계대명사 에스에 주절의 주어 에스를 잡아주시고, is 본동사 브이아이, important 주격 보어 에스씨입니다. (to them) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. (into words) 이 역시 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. 자, 전체 문장은 주절의 주어 에스, 타동사 브이티, 목적어 오의 삼형식 구조입니다.
+
+2단계 [내용 맥락 설명]:
+이 문장은 사람들이 자신에게 중요한 모든 것을 항상 말로 표현하지는 않는다는 점을 분명히 하고 있습니다. 즉, 언어적인 소통만으로는 모든 의미를 파악하기 어렵다는 핵심 내용을 제시하죠.
+
+3단계 [핵심 문법 출제 포인트]:
+먼저 don't always는 '항상 ~인 것은 아니다'라는 부분 부정을 나타냅니다. '결코 ~이 아니다'라는 완전 부정과 구분하여 해석해야 하죠. 다음으로 관계대명사 that을 주목하세요. 선행사 everything을 수식하는 주격 관계대명사이며, that절 전체가 형용사절로 기능합니다. 뒤에 오는 동사 is에 대한 수일치도 출제 포인트가 될 수 있겠죠. 마지막으로 put A into words라는 표현은 'A를 말로 표현하다'라는 의미의 동사구입니다. 여기서 into words는 동사 put의 방식을 설명하는 부사구 역할을 합니다.
+
+4단계 [서술형 영작 대비 포인트]:
+서술형 대비 핵심 구문입니다. '화자가 항상 모든 중요한 것을 말로 표현하는 것은 아니다'라는 의미를 영작할 때, 부분 부정 not always의 위치와, 선행사 everything 뒤에 붙는 주격 관계대명사 that절의 구조를 정확히 배열하는 것이 중요합니다. put A into words 구문도 함께 기억해두시기 바랍니다.
+
+[G열: 구문분석 JSON 토큰 수]: 13 tokens
+
+--------------------------------------------------------------------
+[문장 2] 원문: Very often you can understand a speaker's meaning by observing their nonverbal behaviors such as a change in a vocal tone or volume, eye contact, facial expressions and gestures.
+[문장 2] 직독직해: 매우 흔하게 / 당신은 / 화자의 의미를 / 이해할 수 있다 / 그들의 비언어적 행동을 / 관찰함으로써 / 목소리 어조나 크기의 변화, / 시선 교환, / 얼굴 표정 / 그리고 / 몸짓과 같은.
+[문장 2] 형식분석: [3형식] 주어(S) + 타동사(Vt) + 목적어(O)
+• 주절: 주어(S) + 타동사(Vt) + 목적어(O)
+• 구문 해설: 동작의 직접 대상이 되는 명사구/to부정사구 목적어가 결합된 3형식 구조
+[문장 2] 문법포인트: by + ~ing: 'observe'의 동명사형 observing 앞에 전치사 by가 붙어 '~함으로써'라는 수단/방법을 나타내는 부사구를 이룹니다.
+such as: '~와 같은'이라는 의미로, nonverbal behaviors의 구체적인 예시를 도입하는 전치사구입니다.
+명사 병렬 구조: a change, eye contact, facial expressions, gestures가 such as 뒤에 병렬로 연결되어 있습니다.
+
+[F열: 강의 대본]
+1단계 [구조분석 직독직해]:
+(Very often) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. you 주절의 주어 에스를 잡습니다. can understand 주절의 본동사 브이티입니다. a speaker's meaning 목적어 오입니다. (by observing) 전치사 by 뒤에 동명사 observing이 왔으므로 소괄호로 묶어서 제외합니다. 동명사 observing은 목적어를 취하는 삼형식 준동사 구조입니다. their nonverbal behaviors가 동명사의 목적어 오입니다. (such as a change in a vocal tone or volume, eye contact, facial expressions and gestures) such as는 '~와 같은'이라는 의미로, nonverbal behaviors의 구체적인 예시를 설명하는 전치사구이므로 소괄호로 묶어서 제외합니다. 전체 문장은 주절의 주어 에스, 타동사 브이티, 목적어 오의 삼형식 구조입니다.
+
+2단계 [내용 맥락 설명]:
+이 문장은 화자가 말로 표현하지 않는 의미를 우리가 어떻게 파악할 수 있는지를 구체적으로 설명합니다. 즉, 목소리, 시선, 표정, 몸짓 등 비언어적 행동을 관찰함으로써 의미를 이해할 수 있다는 것이 핵심입니다.
+
+3단계 [핵심 문법 출제 포인트]:
+'~함으로써'라는 수단을 나타내는 전치사 by 뒤에 동명사 observing이 온 형태를 확인하세요. such as는 비언어적 행동의 예시를 나열하는 전치사구입니다. 이때 such as 뒤에 오는 명사들이 병렬 구조를 이루고 있다는 점을 파악하는 것이 중요합니다. 특히 a change, eye contact, facial expressions, gestures가 콤마와 앤드로 잘 연결되어 있는지를 확인해야 합니다.
+
+4단계 [서술형 영작 대비 포인트]:
+서술형 대비 핵심 구문입니다. '비언어적 행동을 관찰함으로써 화자의 의미를 이해할 수 있다'는 부분을 영작할 때, by observing their nonverbal behaviors 구문을 정확히 사용하는 것과 such as 뒤에 비언어적 행동의 예시를 병렬 구조로 나열하는 연습이 필요합니다.
+
+[G열: 구문분석 JSON 토큰 수]: 34 tokens
+
+--------------------------------------------------------------------
+[문장 3] 원문: As it is easy to misinterpret nonverbal behavior, effective listeners verbally confirm their interpretations of someone's nonverbal communication.
+[문장 3] 직독직해: 비언어적 행동은 / 오해하기 쉽기 때문에 / 효과적인 청자는 / 말로 / 그들의 해석을 / 확인한다 / 누군가의 비언어적 소통에 대한.
+[문장 3] 형식분석: [3형식] 주어(S) + 타동사(Vt) + 목적어(O)
+• 주절: effective listeners(S) + (verbally) + confirm(Vt) + their interpretations(O) + (of someone's nonverbal communication)
+• 부사절(as): (As it(가S) is(Vi) easy(SC) [to misinterpret(Vt, 진S) nonverbal behavior(O)]) - 이유/상황의 접속사절
+• 구문 해설: 가주어 it, 진주어 to부정사 구조를 포함한 as 부사절이 문두에 오고, 주절은 타동사 confirm과 목적어로 이루어진 3형식 구조
+[문장 3] 문법포인트: 접속사 As: '~때문에'라는 이유를 나타내는 부사절을 이끄는 접속사입니다.
+It ~ to 부정사 (가주어-진주어): 'It is easy to misinterpret'는 to misinterpret가 진주어이고 it이 가주어인 구문입니다.
+verbally: 동사 confirm을 수식하는 부사입니다.
+
+[F열: 강의 대본]
+1단계 [구조분석 직독직해]:
+(As) 접속사 as에 세모를 치고 소괄호로 묶어줍니다. 이유를 나타내는 부사절이죠. as절 내부의 it은 가주어 에스입니다. is 동사 브이아이, easy 보어 에스씨입니다. [to misinterpret] 가주어 it의 진주어이므로 대괄호로 묶어 명사 역할을 하게 합니다. to misinterpret는 목적어를 취하는 삼형식 준동사 구조입니다. nonverbal behavior가 준동사의 목적어 오입니다. 주절로 넘어옵니다. effective listeners 주절의 주어 에스를 잡습니다. (verbally) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. confirm 주절의 본동사 브이티입니다. their interpretations 목적어 오입니다. (of someone's nonverbal communication) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. 전체 문장은 as 부사절이 이끄는 이유절과 주절의 삼형식 구조로 이루어져 있습니다. as절 내부는 가주어 it과 진주어 to 부정사를 포함한 이형식 구조입니다.
+
+2단계 [내용 맥락 설명]:
+이 문장은 비언어적 행동이 오해될 수 있음을 지적하며, 효과적인 청자들이 이를 확인하는 과정의 중요성을 강조합니다. 말로써 비언어적 소통에 대한 자신의 해석을 검증해야 한다는 의미입니다.
+
+3단계 [핵심 문법 출제 포인트]:
+접속사 As는 여기에서 '~때문에'라는 의미로 사용되었습니다. 의미가 같은 because, since 등으로 바꿔 쓸 수 있겠죠. It is easy to misinterpret에서 it은 가주어이고 to misinterpret가 진주어입니다. 이 구문은 서술형에서도 빈번하게 출제되니 정확한 이해가 필요합니다. verbally는 동사 confirm을 수식하는 부사로, '말로' 또는 '언어적으로'라는 의미를 더합니다. 부사의 적절한 위치를 확인하시기 바랍니다.
+
+4단계 [서술형 영작 대비 포인트]:
+서술형 대비 핵심 구문입니다. As 부사절과 주절의 구조를 파악하고, 특히 as절 내부의 가주어 it과 진주어 to misinterpret 구문을 정확하게 영작하는 것이 중요합니다. 주절에서 verbally confirm their interpretations of ~의 어순 또한 유의하시기 바랍니다.
+
+[G열: 구문분석 JSON 토큰 수]: 21 tokens
+
+--------------------------------------------------------------------
+[문장 4] 원문: A question as simple as "Do your nods indicate a yes vote?" can make sure that everyone is on the same wavelength.
+[문장 4] 직독직해: 고개를 끄덕이신 것이 / 찬성을 의미하나요?와 / 같은 / 간단한 질문으로 / 모두가 / 같은 이해를 / 공유하고 있다는 것을 / 분명히 할 수 있다.
+[문장 4] 형식분석: [3형식] 주어(S) + 타동사(Vt) + 목적어(명사절 that O)
+• 주절: 주어(S) + can make sure(Vt) + [that everyone is on the same wavelength](O)
+• 목적어 명사절: [that(O) [everyone(S)] [is(Vi)] (on the same wavelength)]
+• 구문 해설: 타동사구 make sure 뒤에 접속사 that이 이끄는 1형식 명사절이 직접목적어(O)로 결합된 구조
+[문장 4] 문법포인트: as ~ as: 뒤에 오는 as와 함께 '~만큼 ~한'이라는 동등 비교를 나타내는 구문입니다. 여기서는 'A as simple as B'로 'B만큼 간단한 A'라는 의미입니다.
+make sure that: '~을 확실히 하다'라는 의미의 관용 표현으로, 뒤에 목적어 역할을 하는 that 명사절이 옵니다.
+that 명사절: make sure 뒤에 오는 that은 '확실히 하다'는 의미의 동사 make sure의 목적어 역할을 하는 명사절 접속사입니다.
+
+[F열: 강의 대본]
+1단계 [구조분석 직독직해]:
+A question 주절의 주어 에스를 잡습니다. (as simple as "Do your nods indicate a yes vote?") as ~ as 구문은 동등 비교를 나타내는 형용사구로, 앞의 명사 A question을 수식하므로 소괄호로 묶어줍니다. can make sure 주절의 본동사 브이티입니다. [that everyone is on the same wavelength] that 접속사 세모를 치고 대괄호로 묶어줍니다. make sure의 목적어 역할을 하는 명사절입니다. 명사절 내부를 분석하면, everyone 종속절의 주어 에스, is 종속절의 동사 브이아이입니다. (on the same wavelength) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. 명사절 내부는 주어 에스, 동사 브이아이의 일형식 구조입니다. 전체 문장은 주절의 주어 에스, 타동사구 can make sure, 그리고 that 명사절 목적어 오의 삼형식 구조입니다.
+
+2단계 [내용 맥락 설명]:
+이 문장은 비언어적 행동을 말로 확인하는 구체적인 예시를 제시합니다. 간단한 질문 하나로 서로의 비언어적 소통에 대한 이해를 일치시킬 수 있음을 설명하는 것이죠.
+
+3단계 [핵심 문법 출제 포인트]:
+'A as simple as B'는 'B만큼 간단한 A'라는 동등 비교 구문입니다. 여기서는 B에 해당하는 부분은 직접 인용된 질문이죠. make sure that은 '~을 확실히 하다'라는 관용 표현입니다. make sure 뒤에 that절이 목적어로 오는 구조를 기억하세요. 이때 that은 명사절 접속사입니다. that절 내부의 주어 everyone은 단수 취급하여 동사 is와 수일치되어 있습니다. 수일치에 유의해야 합니다. on the same wavelength는 '같은 이해를 공유하는', '생각이 일치하는'이라는 의미의 숙어 표현입니다.
+
+4단계 [서술형 영작 대비 포인트]:
+서술형 대비 핵심 구문입니다. as ~ as 동등 비교 구문으로 주어를 시작하고, make sure that 다음에 이어지는 명사절의 구조를 정확하게 영작하는 것이 중요합니다. 특히 that절 내부의 주어 동사 수일치와 on the same wavelength와 같은 숙어를 정확히 활용해야 합니다.
+
+[G열: 구문분석 JSON 토큰 수]: 11 tokens
+
+--------------------------------------------------------------------
+[문장 5] 원문: If, as nonverbal research indicates, more than half of a speaker's meaning is conveyed nonverbally, we are missing a lot of important information if we fail to "listen" to nonverbal behavior.
+[문장 5] 직독직해: 만약, / 비언어적 연구가 / 보여주듯이, / 화자가 의미하고자 하는 것의 / 절반 이상이 / 비언어적으로 / 전달된다면, / 우리는 / 많은 중요한 정보를 / 놓치게 되는 것이다 / 만약 우리가 / 비언어적 행동에 / "귀 기울이지" 못한다면.
+[문장 5] 형식분석: [3형식] 주어(S) + 타동사(Vt) + 목적어(O)
+• 주절: 주어(S) + 타동사(Vt) + 목적어(O)
+• 구문 해설: 동작의 직접 대상이 되는 명사구/to부정사구 목적어가 결합된 3형식 구조
+[문장 5] 문법포인트: 삽입절 as ~ indicates: 문장 중간에 'as + 주어 + 동사' 형태로 삽입되어 '주어가 동사하듯이'라는 의미를 더합니다.
+수동태 is conveyed: 주어 'more than half of a speaker's meaning'이 의미를 '전달하는' 것이 아니라 '전달되는' 대상이므로 수동태(be + pp)가 사용되었습니다.
+If 절 (조건절): 문장의 시작과 끝에 두 개의 if 절이 각각 조건을 제시하고 있습니다.
+
+[F열: 강의 대본]
+1단계 [구조분석 직독직해]:
+(If) 접속사 If에 세모를 치고 소괄호로 묶어줍니다. 조건을 나타내는 부사절이죠. if절 내부로 들어갑니다. (as nonverbal research indicates) 콤마 콤마 사이에 삽입된 부사절이므로 역시 소괄호로 묶어줍니다. as 접속사 세모, nonverbal research 종속절의 주어 에스, indicates 종속절의 동사 브이티입니다. more than half of a speaker's meaning 종속절의 주어 에스입니다. is conveyed 종속절의 동사 브이티이며 수동태로 쓰였습니다. (nonverbally) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. if절 내부는 주어 에스, 수동태 동사 브이티의 삼형식 구조입니다. 주절로 넘어옵니다. we 주절의 주어 에스를 잡습니다. are missing 주절의 본동사 브이티입니다. a lot of important information 목적어 오입니다. (if we fail to "listen" to nonverbal behavior) 다시 한번 if 접속사 세모를 치고 소괄호로 묶어줍니다. 또 다른 조건 부사절이죠. if절 내부의 we 종속절의 주어 에스, fail 종속절의 동사 브이아이입니다. (to "listen" to nonverbal behavior) to 부정사는 fail을 수식하는 부사적 용법으로 쓰였으므로 소괄호로 묶어줍니다. to listen은 to nonverbal behavior라는 목적어를 취하는 준동사 구조입니다. 전체 문장은 if 조건절 두 개와 주절의 삼형식 구조로 이루어져 있습니다. 주절은 주어 에스, 현재 진행형 타동사구 브이티, 목적어 오의 삼형식 구조입니다.
+
+2단계 [내용 맥락 설명]:
+이 문장은 비언어적 소통의 중요성을 통계적 사실과 연관 지어 강조합니다. 화자의 의미 절반 이상이 비언어적으로 전달된다는 점을 전제로, 비언어적 행동에 귀 기울이지 않으면 많은 중요한 정보를 놓치게 된다는 경고의 메시지이죠.
+
+3단계 [핵심 문법 출제 포인트]:
+먼저 삽입절 as nonverbal research indicates에 주목하세요. 문장 흐름을 방해하지 않으면서 '비언어적 연구가 보여주듯이'라는 정보를 추가하는 역할을 합니다. more than half of a speaker's meaning에서 주어는 meaning이며, 동사 is conveyed는 단수 수동태로 올바르게 사용되었습니다. 이 부분에서 수일치와 태를 묻는 문제가 자주 출제됩니다. '부분을 나타내는 말 오브 명사' 구조에서 동사는 오브 뒤의 명사에 수일치한다는 원칙을 떠올리시기 바랍니다. 마지막으로 두 개의 if 조건절이 문장의 앞과 뒤에 배치되어 있는 다층 구조를 이해해야 합니다.
+
+4단계 [서술형 영작 대비 포인트]:
+서술형 대비 핵심 구문입니다. 두 개의 if 조건절과 중간에 삽입된 as절, 그리고 주절이 복잡하게 얽혀 있는 문장입니다. 특히 more than half of ~ is conveyed nonverbally와 같이 수동태를 활용한 주어 동사 구성을 정확히 영작하고, if we fail to "listen" to ~와 같은 표현을 익숙하게 사용할 수 있도록 연습해야 합니다.
+
+[G열: 구문분석 JSON 토큰 수]: 40 tokens
+
+--------------------------------------------------------------------
+[문장 6] 원문: Even Freud suggested that "he that has eyes to see and ears to hear may convince himself that no mortal can keep a secret.
+[문장 6] 직독직해: 심지어 / 프로이트는 / 시사했다 / "볼 눈과 / 들을 귀가 있는 사람은 / 스스로 / 확신하게 될 수 있다 / 어떤 인간도 / 비밀을 / 지킬 수 없다는 것을.
+[문장 6] 형식분석: [3형식] 주어(S) + 타동사(Vt) + 목적어(O)
+• 주절: 주어(S) + 타동사(Vt) + 목적어(O)
+• 구문 해설: 동작의 직접 대상이 되는 명사구/to부정사구 목적어가 결합된 3형식 구조
+[문장 6] 문법포인트: that 명사절: suggested 뒤에 오는 that은 동사 suggest의 목적어 역할을 하는 명사절 접속사입니다.
+관계대명사 that: "he that has eyes ~"에서 that은 he를 수식하는 주격 관계대명사입니다.
+to 부정사의 형용사적 용법: "eyes to see"와 "ears to hear"에서 to see와 to hear는 각각 eyes와 ears를 수식하는 형용사적 용법으로 쓰였습니다.
+
+[F열: 강의 대본]
+1단계 [구조분석 직독직해]:
+(Even) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. Freud 주절의 주어 에스를 잡습니다. suggested 주절의 본동사 브이티입니다. [that "he that has eyes to see and ears to hear may convince himself that no mortal can keep a secret."] 접속사 that에 세모를 치고 대괄호로 묶어줍니다. suggested의 목적어 역할을 하는 명사절입니다. 명사절 내부를 분석합니다. he 종속절의 주어 에스입니다. (that has eyes to see and ears to hear) 관계대명사 that에 세모를 치고 소괄호로 묶어줍니다. he를 후치수식하는 형용사절입니다. that절 내부는 삼형식입니다. that 주격 관계대명사 에스, has 동사 브이티, eyes 목적어 오입니다. (to see)는 eyes를 수식하는 형용사적 용법의 to부정사구이므로 소괄호 처리합니다. (and ears to hear)도 동일하죠. may convince 종속절의 동사 브이티입니다. himself 목적어 오입니다. [that no mortal can keep a secret] 다시 한번 that 접속사 세모를 치고 대괄호로 묶어줍니다. convince의 목적어 역할을 하는 명사절입니다. 이 명사절 내부에서 no mortal 종속절의 주어 에스, can keep 종속절의 동사 브이티, a secret 목적어 오의 삼형식 구조입니다. 전체 문장은 주절의 주어 에스, 타동사 브이티, 그리고 that 명사절 목적어 오의 삼형식 구조이며, 이 명사절 내부에 다시 관계사절과 또 다른 명사절이 중첩되어 있는 복합적인 문장입니다.
+
+2단계 [내용 맥락 설명]:
+이 문장은 비언어적 소통이 본심을 숨기기 어렵다는 주장을 프로이트의 권위 있는 말을 인용하여 뒷받침합니다. 아무리 말로 침묵해도 비언어적 단서를 통해 본심이 드러날 수밖에 없다는 핵심 메시지를 담고 있죠.
+
+3단계 [핵심 문법 출제 포인트]:
+첫 번째 that은 동사 suggested의 목적어 역할을 하는 명사절 접속사입니다. 두 번째 that은 'he that has eyes to see'에서 he를 수식하는 주격 관계대명사입니다. 이때 he는 선행사 역할을 합니다. to see와 to hear는 각각 eyes와 ears를 수식하는 형용사적 용법의 to 부정사입니다. may convince himself는 '스스로 확신하게 될 수 있다'는 의미로, 재귀대명사 himself의 사용이 적절한지 확인해야 합니다. 세 번째 that은 동사 convince의 목적어 역할을 하는 명사절 접속사입니다. no mortal can keep a secret에서 no는 뒤의 명사를 부정하여 전체 문장을 부정의 의미로 만듭니다.
+
+4단계 [서술형 영작 대비 포인트]:
+서술형 대비 핵심 구문입니다. 이 문장은 여러 개의 that절과 to 부정사가 중첩되어 있어 난이도가 높습니다. suggested 뒤의 명사절 that, he를 수식하는 관계대명사 that, convince의 목적어 명사절 that의 역할을 각각 정확히 파악하고, to 부정사의 형용사적 용법을 활용하여 영작하는 연습이 필수적입니다.
+
+[G열: 구문분석 JSON 토큰 수]: 33 tokens
+
+--------------------------------------------------------------------
+[문장 7] 원문: If his lips are silent, he chatters with his fingertips; betrayal oozes out of him at every pore."
+[문장 7] 직독직해: 만약 / 그의 입술이 / 침묵하더라도, / 그는 / 그의 손가락 끝으로 / 재잘거리며; / 누설속마음이 / 그의 모든 모공에서 / 스며 나온다.
+[문장 7] 형식분석: [2형식] 주어(S) + 자동사(Vi) + 주격보어(SC)
+• 주절: 주어(S) + 자동사(Vi) + 주격보어(SC)
+• 구문 해설: 주어의 상태나 성질을 보충 설명하는 형용사/명사 주격보어 결합 구조
+[문장 7] 문법포인트: If 절 (조건절): 조건(~라면)을 나타내는 부사절을 이끌며, 주절과 쉼표로 구분됩니다.
+Semi-colon (;): 두 개의 독립적인 절(문장)을 연결할 때 사용됩니다. 여기서 'he chatters with his fingertips'와 'betrayal oozes out of him at every pore'를 연결합니다.
+자동사 oozes out: '스며 나오다'라는 의미의 구동사(phrasal verb)로, 뒤에 전치사구(out of him, at every pore)를 수반하여 의미를 보충합니다.
+
+[F열: 강의 대본]
+1단계 [구조분석 직독직해]:
+(If) 접속사 If에 세모를 치고 소괄호로 묶어줍니다. 조건을 나타내는 부사절이죠. if절 내부의 his lips 종속절의 주어 에스, are 종속절의 동사 브이아이, silent 보어 에스씨입니다. if절 내부는 이형식 구조입니다. 주절로 넘어옵니다. he 주절의 주어 에스를 잡습니다. chatters 주절의 본동사 브이아이입니다. (with his fingertips) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. 세미콜론(;)은 두 개의 독립적인 절을 연결하므로, 그 뒤 문장도 분석합니다. betrayal 새로운 주절의 주어 에스입니다. oozes out 새로운 주절의 본동사 브이아이입니다. (of him) 그리고 (at every pore) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. 전체 문장은 if 조건절과 두 개의 독립적인 주절로 구성되어 있습니다. 첫 번째 주절은 일형식이며, 두 번째 주절도 일형식 구조입니다.
+
+2단계 [내용 맥락 설명]:
+이 문장은 비언어적 소통이 얼마나 강력하고 숨기기 어려운지를 문학적으로 묘사합니다. 말은 침묵할 수 있지만, 손가락이나 모공과 같은 신체적 표현을 통해 진실이 드러날 수밖에 없다는 것을 비유적으로 설명하는 것이죠.
+
+3단계 [핵심 문법 출제 포인트]:
+If 조건절은 현재 시제를 사용하여 미래의 조건적 상황을 표현합니다. 동사 are silent는 주어 lips에 대한 이형식 동사이죠. 세미콜론(;)은 두 개의 밀접한 관련이 있는 독립절을 연결하는 역할을 합니다. 여기서는 앞 문장과 뒷 문장 모두 비언어적 소통을 통해 본심이 드러난다는 내용을 담고 있어 적절하게 사용되었습니다. oozes out은 '스며 나오다'라는 의미의 자동사 구동사입니다. 뒤에 out of him, at every pore와 같은 전치사구들이 동사의 의미를 보충합니다.
+
+4단계 [서술형 영작 대비 포인트]:
+서술형 대비 핵심 구문입니다. If 조건절과 두 개의 독립절을 세미콜론으로 연결하는 구조를 이해하는 것이 중요합니다. 특히 'chatters with his fingertips'와 'betrayal oozes out of him at every pore'와 같은 비유적 표현을 정확히 영작할 수 있도록 연습해야 합니다.
+
+[G열: 구문분석 JSON 토큰 수]: 23 tokens
+
+--------------------------------------------------------------------
+[문장 8] 원문: No wonder it is difficult for most people to conceal what they mean and feel in a face-to-face group discussion.
+[문장 8] 직독직해: ~는 당연하다 / 어렵다는 것은 / 대부분의 사람들이 / 숨기는 것이 / 그들이 의미하고 느끼는 것을 / 대면 집단 토론에서.
+[문장 8] 형식분석: [2형식] 주어(S) + 자동사(Vi) + 주격보어(SC)
+• 주절: 주어(S) + 자동사(Vi) + 주격보어(SC)
+• 구문 해설: 주어의 상태나 성질을 보충 설명하는 형용사/명사 주격보어 결합 구조
+• 수식어구: 형용사 보어를 수식하는 to부정사 부사적 용법
+[문장 8] 문법포인트: No wonder: '~는 당연하다'라는 의미의 관용 표현입니다. 뒤에 명사절 (that절)이 생략된 형태로 자주 사용됩니다.
+It ~ for ~ to 구문 (가주어-진주어 + 의미상 주어): 'It is difficult for most people to conceal'에서 it은 가주어, to conceal 이하가 진주어이며, for most people은 to 부정사의 의미상 주어입니다.
+명사절 what: conceal의 목적어 역할을 하는 명사절로, '그들이 의미하고 느끼는 것'이라는 의미의 선행사를 포함하는 관계대명사 what입니다.
+
+[F열: 강의 대본]
+1단계 [구조분석 직독직해]:
+No wonder는 '놀랄 일이 아니다', '당연하다'는 의미의 관용 표현이므로 전체 문장을 이끄는 부사구 역할을 합니다. it 주절의 주어 에스를 잡습니다. 가주어 에스입니다. is 주절의 본동사 브이아이입니다. difficult 주격 보어 에스씨입니다. (for most people) to 부정사의 의미상 주어이므로 소괄호로 묶어서 제외합니다. [to conceal] 진주어이므로 대괄호로 묶어 명사 역할을 하게 합니다. to conceal은 목적어를 취하는 삼형식 준동사 구조입니다. [what they mean and feel] 준동사 conceal의 목적어 오입니다. 관계대명사 what에 세모를 치고 대괄호로 묶어줍니다. what절 내부를 분석하면, they 종속절의 주어 에스, mean and feel 종속절의 동사 브이티입니다. (in a face-to-face group discussion) 제이법칙 거품 걷어내기 원칙에 따라 소괄호로 묶어서 제외합니다. 전체 문장은 가주어 it과 진주어 to conceal을 포함한 이형식 구조입니다. 진주어 to conceal은 다시 what 명사절을 목적어로 취하는 삼형식 준동사 구조입니다.
+
+2단계 [내용 맥락 설명]:
+이 문장은 비언어적 소통의 중요성을 종합하여 결론을 내립니다. 대면 집단 토론과 같은 상황에서 사람들이 자신의 진정한 의도나 감정을 숨기기가 어려운 것은 당연하다는 점을 강조하며, 이는 앞선 내용에서 비언어적 신호가 쉽게 드러나고 오해될 수 있기 때문임을 뒷받침합니다.
+
+3단계 [핵심 문법 출제 포인트]:
+No wonder는 '~는 당연하다'라는 의미의 관용 표현으로, 뒤에 that절이 생략된 형태입니다. It is difficult for most people to conceal 구문은 가주어 it, 진주어 to conceal, 그리고 to 부정사의 의미상 주어 for most people이 모두 포함된 핵심 구문입니다. 각 요소의 역할을 정확히 이해해야 합니다. what they mean and feel은 선행사를 포함하는 관계대명사 what이 이끄는 명사절로, 동사 conceal의 목적어 역할을 합니다. '그들이 의미하고 느끼는 것'으로 해석되죠. 이때 what 대신 that을 사용하지 않도록 주의해야 합니다.
+
+4단계 [서술형 영작 대비 포인트]:
+서술형 대비 핵심 구문입니다. No wonder로 시작하여 It ~ for ~ to 구문을 활용하고, 그 안에 다시 관계대명사 what이 이끄는 명사절을 목적어로 넣는 다층적인 구조입니다. 각 요소의 정확한 어순 배열과 적절한 품사 선택에 유의하며 영작 연습을 하시기 바랍니다.
+
+이상으로 삼십이 번 지문의 모든 문장 분석을 마쳤습니다. 강의가 끝난 후 담당 선생님과의 일대일 구두테스트를 통해 오늘 배운 내용을 말로 직접 설명하며 완전히 자신의 것으로 만드시기 바랍니다. 수고 많으셨습니다.
+
+[G열: 구문분석 JSON 토큰 수]: 29 tokens
+
